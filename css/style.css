@@ -1,0 +1,27 @@
+.box {
+/*display: inline-block;*/
+box-sizing: border-box;
+/*Ширина*/
+width: 300px;
+/*Высота*/
+height: 300px;
+/*Фоновый цвет*/
+background-color: red;
+padding: 20px;
+border: solid 5px black;
+margin: 20px;
+}
+.box-2 {
+margin-left: 100px;
+margin-top: 100px;
+}
+.link {
+	background-color: red;
+	padding: 10px;
+	border: solid 5px black;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+button {
+	height: 40px;
+}
