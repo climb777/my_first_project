@@ -13,3 +13,4 @@ if(!(num1 > 0 && num2 < 5)) {
 else {
 	console.log('неверно');
 }
+console.log ('Привет, Алина!');
